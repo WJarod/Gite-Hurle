@@ -1,0 +1,19 @@
+version: '3.3'
+services:
+    httpd:
+        container_name: leGiteHurle
+        environment:
+            - 'VIRTUAL-HOST=http://le-gite-hurle.bwb'
+        ports:
+            - '8080:80'
+        volumes:
+            - '/Users/jarod/Documents/Beweb/legitehurle-ui-server:/usr/local/apache2/htdocs/'
+        image: 'httpd:2.4'
+        tty: true
+    node :
+        ports: 
+            - "3000:3000"
+        image: node
+        tty: true
+
+       

@@ -1,0 +1,28 @@
+[
+    {
+        "id" : "1",
+        "nom" : "Chambres pour deux",
+        "description" : "< Weekend > d’amour applique une réduction de 10% sur le nombre de nuitées avec petit déjeuner < lover >  servi au lit (uniquement pour les chambres pour deux personnes.",
+        "prix" : "35",
+        "img" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+        "nbrDespace" : "5"
+    },
+
+    {
+        "id" : "2",
+        "nom" : "Chambres familiales",
+        "description" : "< Nature et découverte > proposées pour tous les type d’espace lorsque nombre de nuitées d’espace les 5 jours (weekend compris)  réduction de 5% sur la totalité du séjour.  Elle propose en outre, une escapade < rahan > en terre de Gévaudan (le coutelas est fourni).",
+        "prix" : "55",
+        "img" : "https://www.ailette.fr/fr/img/slideshow_xxlarge/316_chambre-famille-hotel-piscine-reims.jpg.jpeg",
+        "nbrDespace" : "5"
+    },
+
+    {
+        "id" : "3",
+        "nom" : "Appartements",
+        "description" : "< Travail saisonnier > réduction de 20% sur la totalité du séjour ( non majoré ) pour tous types d’espaces 1 mois minimum période  de juin à aout ( inclus ). ",
+        "prix" : "110",
+        "img" : "https://www.chalet-prestige.com/_files/_media/15/Chalet%20Sirius/Chalet-sirius-serre-chevalier1.jpg",
+        "nbrDespace" : "5"
+    }
+]

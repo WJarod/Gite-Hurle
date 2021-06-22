@@ -1,0 +1,25 @@
+[
+    {
+        "id" : "1",
+        "nom" : "Weekend d'amour",
+        "description" : "< Weekend > d’amour applique une réduction de 10% sur le nombre de nuitées avec petit déjeuner < lover >  servi au lit (uniquement pour les chambres pour deux personnes.",
+        "réduction" : "10",
+        "img" : "https://flyandgo.fr/wp-content/uploads/2019/01/Barriere-Saint-Valentin-chambre.jpg"
+    },
+
+    {
+        "id" : "2",
+        "nom" : "Nature et découverte",
+        "description" : "< Nature et découverte > proposées pour tous les type d’espace lorsque nombre de nuitées d’espace les 5 jours (weekend compris)  réduction de 5% sur la totalité du séjour.  Elle propose en outre, une escapade < rahan > en terre de Gévaudan (le coutelas est fourni).",
+        "réduction" : "5",
+        "img" : "https://www.widoobiz.com/wp-content/uploads/2019/05/rsz-simon-migaj-421505-unsplash-1072x568.jpg"
+    },
+
+    {
+        "id" : "3",
+        "nom" : "Travail saisonnier",
+        "description" : "< Travail saisonnier > réduction de 20% sur la totalité du séjour ( non majoré ) pour tous types d’espaces 1 mois minimum période  de juin à aout ( inclus ). ",
+        "réduction" : "20",
+        "img" : "https://cdn.pixabay.com/photo/2017/09/16/16/44/raking-2756006_1280.jpg"
+    }
+]
